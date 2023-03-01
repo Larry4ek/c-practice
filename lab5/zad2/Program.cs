@@ -6,7 +6,7 @@
         {
             try
             {
-                Console.Write("Введите вещественное число x: ");
+                Console.Write("Введите число x: ");
                 double x = Convert.ToInt32(Console.ReadLine());
                 double f;
                 if ((x < 1) && (x > -1))
